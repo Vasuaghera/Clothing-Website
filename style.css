@@ -1,0 +1,9 @@
+/* Add to your theme's custom CSS */
+.primary-color,
+.primary-background {
+    color: #000000;
+}
+
+.primary-background {
+    background-color: #000000;
+} 
