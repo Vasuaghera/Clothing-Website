@@ -1,9 +1,9 @@
 ﻿# Clothing Website Project [ French Elite ]
  
 ## Live Demo
-- **Frontend**: [View the live site](https://clothing-website-frontend3.onrender.com/)
-- **Admin**: [Access the admin panel](https://clothing-website-admin.onrender.com/)
-- **Backend**: [Access the backend API](https://clothing-website-backend-4.onrender.com/)
+- **Frontend**: [View the live Frontend site](https://clothing-website-frontend3.onrender.com/)
+- **Admin**: [View the live Admin site](https://clothing-website-admin.onrender.com/)
+- **Backend**: [View the live Backend API](https://clothing-website-backend-4.onrender.com/)
 
 # Forever Admin Panel
 
