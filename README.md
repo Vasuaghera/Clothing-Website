@@ -5,9 +5,9 @@
 - **Admin**: [View the live Admin site](https://clothing-website-admin.onrender.com/)
 - **Backend**: [View the live Backend API](https://clothing-website-backend-4.onrender.com/)
 
-# Forever Admin Panel
+# French Elite Admin Panel
 
-This is the admin panel for the Forever application, built using React and Vite. It provides a user-friendly interface for managing products, orders, and user authentication.
+This is the admin panel for the French Elite application, built using React and Vite. It provides a user-friendly interface for managing products, orders, and user authentication.
 
 ## Features
 
