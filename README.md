@@ -2,8 +2,8 @@
  
 ## Live Demo
 - **Frontend**: [View the live site](https://clothing-website-frontend3.onrender.com/)
-- **Admin Panel**: [Access the admin panel](https://clothing-website-admin.onrender.com/)
-- **Backend API**: [Access the backend API](https://clothing-website-backend-4.onrender.com/)
+- **Admin**: [Access the admin panel](https://clothing-website-admin.onrender.com/)
+- **Backend**: [Access the backend API](https://clothing-website-backend-4.onrender.com/)
 
 # Forever Admin Panel
 
