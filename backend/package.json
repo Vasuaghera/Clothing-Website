@@ -5,8 +5,13 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
+    "preinstall": "npm install -f bcrypt@5.1.1",
     "start": "node server.js",
-    "server": "nodemon server.js"
+    "server": "nodemon server.js",
+    "build": "npm install && npm rebuild bcrypt --build-from-source"
+  },
+  "engines": {
+    "node": "18.x"
   },
   "author": "",
   "license": "ISC",
